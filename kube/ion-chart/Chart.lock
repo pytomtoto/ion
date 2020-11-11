@@ -7,6 +7,6 @@ dependencies:
   version: 10.7.5
 - name: etcd
   repository: https://charts.bitnami.com/bitnami
-  version: 4.8.5
-digest: sha256:5409b38a8ae522ac8089e6a9943997acf09c6a32269dfcf766e1683eb2bb18e2
-generated: "2020-06-24T10:43:14.0284901-04:00"
+  version: 5.0.1
+digest: sha256:785955c07d96927bc8024427b8eafb819b7d34396d837ecee7d95572a85f99c0
+generated: "2020-11-11T23:32:50.301014643Z"
