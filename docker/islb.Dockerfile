@@ -1,7 +1,7 @@
 FROM golang:1.14.8-stretch
 
 ENV GO111MODULE=on
-
+ENV GOPROXY=https://mirrors.aliyun.com/goproxy/
 WORKDIR $GOPATH/src/github.com/pion/ion
 
 COPY go.mod go.sum ./
